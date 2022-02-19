@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saty035 
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Ensemble Techniques
+- 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me @heysaty (Twitter)
 
